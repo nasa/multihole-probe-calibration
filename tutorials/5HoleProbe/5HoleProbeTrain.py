@@ -71,7 +71,7 @@ def Step1_ProcessData():
         probe_loc = [16253,18061]
         
     #%% Read in the data 
-    df = pd.read_csv('../../dataset/5Hole-Probe1.csv')
+    df = pd.read_csv('dataset/5Hole-Probe1.csv')
     # Select from datapoints 
     probe_1 = df.iloc[probe_loc[0]:probe_loc[1]]
     # validation_set = probe_1.query('MFJ<0.55 and MFJ>0.45')
