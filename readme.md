@@ -19,7 +19,7 @@ Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machin
 
 > **_NOTE:_**  The aerodyne probe example shows how to calibrate all the probes if data is specified ina folder. Example: 16328-1, 16328-2, 16071-1. The 16328 and 16071 are probe model numbers. The -1, -2, ... -whatever is the probe number. So 16328-1 is a specific probe and the folder name contains all the calibration data for it. 
 
-[Aerodyne 5 Probe](https://colab.research.google.com/github/nasa/multihole-probe-calibration/blob/main/tutorials/AerodyneProbe/Aerodyne.ipynb)
+[Aerodyne 5 Probe](https://colab.research.google.com/github/nasa/multihole-probe-calibration/blob/main/tutorials/AerodyneProbe/AerodyneTutorial.ipynb)
 
 # License
 [NASA Open Source Agreement](https://opensource.org/licenses/NASA-1.3)
