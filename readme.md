@@ -11,8 +11,8 @@ NASA has a page describing how they calibrate probes.
 NASA either does their own calibration or when purchasing a probe from a manufacturer, the manufacturer provides the calibration. This code release demonstrates how to apply our machine learning strategy to train on the calibration data. AND how to use the model to predict the flow angles (Pitch, Yaw), Mach, and Cpt or ratio of total to static pressures. 
 
 ## Publication
-Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.
-
+[Mirhashemi, A., Juangphanich, P., & Miki, K. (2024, June). Application of Machine Learning Techniques in Calibration and Data Reduction of Multi-Hole Probes. In Turbo Expo: Power for Land, Sea, and Air (Vol. 87967, p. V004T05A044). American Society of Mechanical Engineers.]
+(https://asmedigitalcollection.asme.org/turbomachinery/article-abstract/147/7/071011/1208619/Application-of-Machine-Learning-Techniques-in?redirectedFrom=fulltext)
 
 ## Tutorials
 [NASA 5 Hole Probe](https://colab.research.google.com/github/nasa/multihole-probe-calibration/blob/main/tutorials/5HoleProbe/5HoleProbeTrain.ipynb)
